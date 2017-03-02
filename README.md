@@ -16,3 +16,6 @@ MSBWT-IS currently requires an output BWT directory and a list of FASTA formatte
 
 ## Using the BWT output
 MSBWT-IS outputs the BWT in an uncompressed numpy format that is recognized by the [*msbwt*](https://github.com/holtjma/msbwt) python package.  Once built, we recommend visiting the [*msbwt* wiki pages](https://github.com/holtjma/msbwt/wiki) for information on compressing or querying the BWT.
+
+## References
+Holt, James Matthew. *Using the multi-string Burrows Wheeler Transform for high-throughput sequence analysis.* Diss. The University of North Carolina at Chapel Hill, 2016.
